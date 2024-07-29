@@ -1,0 +1,8 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/OmkarRPrabhu/Lab_10/Lab_10.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/OmkarRPrabhu/Lab_10/Lab_10.srcs/sim_1/new/Moore_10010_tb.v,1712083863,verilog,,,,Moore_10010_tb,,,,,,,,
+C:/Users/OmkarRPrabhu/Lab_10/Lab_10.srcs/sources_1/new/Mealy_10010.v,1712083134,verilog,,C:/Users/OmkarRPrabhu/Lab_10/Lab_10.srcs/sim_1/new/Moore_10010_tb.v,,ClockDivide;Mealy_10010,,,,,,,,
+C:/Users/OmkarRPrabhu/Lab_10/Lab_10.srcs/sources_1/new/Moore_10010.v,1712084681,verilog,,C:/Users/OmkarRPrabhu/Lab_10/Lab_10.srcs/sim_1/new/Moore_10010_tb.v,,ClockDivide_1;Moore_10010,,,,,,,,

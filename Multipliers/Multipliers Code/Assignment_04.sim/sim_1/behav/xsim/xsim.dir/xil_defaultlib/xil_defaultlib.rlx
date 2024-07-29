@@ -1,0 +1,9 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Assignment_04/Assignment_04.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Assignment_04/Assignment_04.srcs/sim_1/new/Array_Multiplier_tb.v,1708166410,verilog,,,,Array_Multiplier_tb,,,,,,,,
+C:/Assignment_04/Assignment_04.srcs/sim_1/new/Binary_Multiplier_tb.v,1708164057,verilog,,,,Binary_Multiplier_tb,,,,,,,,
+C:/Assignment_04/Assignment_04.srcs/sources_1/new/Array_Multiplier.v,1708166473,verilog,,C:/Assignment_04/Assignment_04.srcs/sim_1/new/Array_Multiplier_tb.v,,Array_Multiplier;Full_Adder;Half_Adder,,,,,,,,
+C:/Assignment_04/Assignment_04.srcs/sources_1/new/Binary_Multiplier.v,1708174027,verilog,,C:/Assignment_04/Assignment_04.srcs/sim_1/new/Binary_Multiplier_tb.v,,Binary_Multiplier,,,,,,,,

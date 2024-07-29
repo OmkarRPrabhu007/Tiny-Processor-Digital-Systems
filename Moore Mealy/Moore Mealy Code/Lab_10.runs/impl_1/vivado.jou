@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Apr  3 00:39:26 2024
+# Process ID: 24844
+# Current directory: C:/Users/OmkarRPrabhu/Lab_10/Lab_10.runs/impl_1
+# Command line: vivado.exe -log Mealy_10010.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Mealy_10010.tcl -notrace
+# Log file: C:/Users/OmkarRPrabhu/Lab_10/Lab_10.runs/impl_1/Mealy_10010.vdi
+# Journal file: C:/Users/OmkarRPrabhu/Lab_10/Lab_10.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Mealy_10010.tcl -notrace

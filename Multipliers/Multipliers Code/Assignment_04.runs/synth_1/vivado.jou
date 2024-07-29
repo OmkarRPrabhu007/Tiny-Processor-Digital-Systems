@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat Feb 17 18:17:23 2024
+# Process ID: 14560
+# Current directory: C:/Assignment_04/Assignment_04.runs/synth_1
+# Command line: vivado.exe -log Binary_Multiplier.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Binary_Multiplier.tcl
+# Log file: C:/Assignment_04/Assignment_04.runs/synth_1/Binary_Multiplier.vds
+# Journal file: C:/Assignment_04/Assignment_04.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Binary_Multiplier.tcl -notrace
